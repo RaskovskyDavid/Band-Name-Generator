@@ -8,7 +8,3 @@ print("Your band name is " + prstreet +" " + petname)
 
 
 
-
-
-
-
